@@ -1,6 +1,6 @@
 *{
 	margin: 0px;
-	padding: 0px;
+	padding: 2px;
 }
 body{
 	margin: auto;
@@ -8,21 +8,21 @@ body{
 	width: 70%;
 }
 nav{
-	color: #000000;
+	color: #000033;
 	font-family: Segoe UI Light;
 }
 nav li{
 	display: inline;
 	float: left;
-	padding-right: 20px;
+	padding-right: 30px;
 }
 nav li a{
 	color: black;
 }
 #box1{
-	background-color: #212529;
-	width: 1000px;
-	height: 250px;
+	background-color: #000033;
+	width: auto;
+	height: 200px;
 	color: white;
 	font-family: Segoe UI Light;
 }

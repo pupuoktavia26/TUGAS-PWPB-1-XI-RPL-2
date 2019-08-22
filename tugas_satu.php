@@ -20,7 +20,7 @@
   <br>
   <br>
   <div id="box1">
-    <p class="judul"><center><b><font size="50px">INI ADALAH KAMI!! :)</p></center></font></b>
+    <p class="judul"><center><b><font size="50px">INI ADALAH KAMI!!</p></center></font></b>
     <br>
   </div>
   <?php 
@@ -100,6 +100,13 @@
         
         </div>
       </div>
+    </div>
+    <br>
+    <br>
+    <div id="box3">
+      <?php
+      echo "rata - rata tinggi kami adalah : $rata_rata";
+      ?>
     </div>
 
 

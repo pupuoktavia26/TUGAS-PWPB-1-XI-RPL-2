@@ -31,7 +31,7 @@
 		<center><img class="judul" src="foto.jpg" width="700px" height="600px"></center>
 		<hr>
 		<br>
-		<center><h3>HAI SELAMAT DATANG DI WEBSITE KAMI!!:)</h3></center>
+		<center><h3>HAI SELAMAT DATANG DI WEBSITE KAMI!</h3></center>
 		<br>
 	</div>
 

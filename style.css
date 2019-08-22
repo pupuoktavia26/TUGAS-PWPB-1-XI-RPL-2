@@ -1,6 +1,6 @@
 *{
 	margin: 0px;
-	padding: 0px;
+	padding: 2px;
 }
 body{
 	margin: auto;
@@ -14,7 +14,7 @@ nav{
 nav li{
 	display: inline;
 	float: left;
-	padding-right: 20px;
+	padding-right: 30px;
 }
 nav li a{
 	color: black;
@@ -26,21 +26,32 @@ h3{
 	font-family: Segoe UI Light;
 }
 #box1{
-	background-color: #212529;
-	width: 1000px;
-	height: 250px;
+	background-color: #000033;
+	width: auto;
+	height: 200px;
 	color: white;
 	font-family: Segoe UI Light;
+
 }
 .judul{
-	padding: 50px;
+	padding: 35px;
 }
 #box2{
-	border: solid 0px black;
+	border: solid 3px black;
 	height: 200px;
 	font-family: Segoe UI Light;
 	font-size: 25px;
 	border-radius: 35px;
+	width: 600px;
+	box-shadow: -10px 10px 40px gray;
+	padding: 30px;
+}
+#box3{
+	border: solid 3px black;
+	height: 3px;
+	font-family: Segoe UI Light;
+	font-size: 25px;
+	border-radius: 40px;
 	width: 600px;
 	box-shadow: -10px 10px 40px gray;
 	padding: 30px;
