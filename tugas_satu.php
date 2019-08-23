@@ -12,7 +12,7 @@
     <ul>
       <li><a href="pwpb.php">Beranda</a></li>
       <li><a href="tugas_satu.php">Anggota Kelompok</a></li>
-      <li><a href="">Tugas Kedua</a></li>
+      <li><a href="tugas_dua.php">Tugas Kedua</a></li>
       <li><a href="">Tugas Ketiga</a></li>
       <li><a href="">Tugas Keempat</a></li>
     </ul>
@@ -50,7 +50,7 @@
         <br>
         <br>
           <div id="box2">
-             <img src="pupu.jpg" width="200px" height="200px">
+             <img src="pupu.jpg" width="250px" height="250px">
           <b><?php echo $nama_satu?></b>
          <br>
          <br>
@@ -101,7 +101,6 @@
         </div>
       </div>
     </div>
-    <br>
     <br>
     <div id="box3">
       <?php

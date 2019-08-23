@@ -13,7 +13,7 @@
 		<ul>
 			<li><a href="pwpb.php">Beranda</a></li>
 			<li><a href="tugas_satu.php">Anggota Kelompok</a></li>
-			<li><a href="">Tugas Kedua</a></li>
+			<li><a href="tugas_dua.php">Tugas Kedua</a></li>
 			<li><a href="">Tugas Ketiga</a></li>
 			<li><a href="">Tugas Keempat</a></li>
 		</ul>
@@ -31,7 +31,8 @@
 		<center><img class="judul" src="foto.jpg" width="700px" height="600px"></center>
 		<hr>
 		<br>
-		<center><h3>HAI SELAMAT DATANG DI WEBSITE KAMI!</h3></center>
+		<center><h3>SELAMAT DATANG DI WEBSITE KAMI</h3></center>
+		
 		<br>
 	</div>
 
