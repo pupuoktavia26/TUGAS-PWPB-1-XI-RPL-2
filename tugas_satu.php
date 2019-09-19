@@ -11,9 +11,9 @@
   <nav>
     <ul>
       <li><a href="pwpb.php">Beranda</a></li>
-      <li><a href="tugas_satu.php">Anggota Kelompok</a></li>
+      <li><a href="tugas_satu.php">Tugas Kesatu</a></li>
       <li><a href="tugas_dua.php">Tugas Kedua</a></li>
-      <li><a href="">Tugas Ketiga</a></li>
+      <li><a href="tugas_tiga.php">Tugas Ketiga</a></li>
       <li><a href="">Tugas Keempat</a></li>
     </ul>
   </nav>

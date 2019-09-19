@@ -1,0 +1,137 @@
+/*#box{
+	background-color: #000033;
+	width: auto;
+	height: 200px;
+	color: white;
+	font-family: Segoe UI Light;
+}*/
+*{
+	margin: 0px;
+	padding: 2px;
+	font-family: Segoe UI Light;
+}
+body{
+	margin: auto;
+	position: center;
+	width: 70%;
+}
+nav{
+	color: #000033;
+	font-family: Segoe UI Light;
+}
+nav li{
+	display: inline;
+	float: left;
+	padding-right: 30px;
+}
+nav li a{
+	color: black;
+}
+p{
+	font-family: Segoe UI Light;
+	font-size: 20px;
+}
+b{
+	font-family: Segoe UI Light;
+}
+h2{
+	font-family: Segoe UI Light;
+}
+#box2{
+	border: solid 3px black;
+	height: 710px;
+	font-family: Segoe UI Light;
+	font-size: 20px;
+	border-radius: 35px;
+	box-shadow: -10px 10px 40px gray;
+	text-align: left;
+	padding: 40px;
+}
+#box1{
+	border: solid 3px black;
+	height: 3600px;
+	font-family: Segoe UI Light;
+	font-size: 16px;
+	border-radius: 35px;
+	box-shadow: -10px 10px 40px gray;
+	width: auto;
+	margin: auto;
+}
+.title-form {
+	width: auto;
+	height: 200px;
+	background-color: #000033;
+	color: #fff;
+	font-family: Segoe UI Light;
+	font-size: 20px;
+	width: auto;
+	text-align: center;
+	margin: auto;
+	padding-top: 50px;
+}
+.content-form form input[type=text]{
+	width: 45%;
+	height: 30px;
+	padding-left: 1%;
+	font-size: 17px;
+	margin-bottom: 1%;
+}
+.content-form form input[type=date]{
+	width: 20%;
+	height: 15px;
+	padding: 1%;
+	font-size: 17px;
+	margin-bottom: 1%;
+}
+.content-form form textarea{
+	width: 60%;
+	height: 110px;
+	padding: 1%;
+	font-size: 17px;
+	margin-bottom: 1%;
+}
+.content-form form input[type=number]{
+	width: 30%;
+	height: 25px;
+	padding-left: 1%;
+	font-size: 17px;
+	margin-bottom: 1%;
+}
+.content-form form input[type=radio]{
+	width: 20%;
+	height: 20px;
+}
+.content-form form input[type=checkbox]{
+	width: 20%;
+	height: 20px;
+}
+ .content-form form input[type=submit]{
+	width: 20%;
+	height: 32px;
+	font-size: 17px;
+	margin-bottom: 1%;
+	background-color: #333;
+	border: 1px solid;
+	color: #fff;
+	border-radius: 4px;
+	cursor: pointer;
+	float: right;
+}
+.content-form form input[type=reset]{
+	width: 20%;
+	height: 32px;
+	font-size: 17px;
+	margin-bottom: 1%;
+	background-color: #333;
+	border: 1px solid;
+	color: #fff;
+	border-radius: 4px;
+	cursor: pointer;
+	float: right;
+}
+.content-form form input[type=reset]:hover {
+	background-color: #000;
+}
+.content-form form input[type=submit]:hover {
+	background-color: #000;
+}

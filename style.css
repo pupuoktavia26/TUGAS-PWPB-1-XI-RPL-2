@@ -62,4 +62,20 @@ img{
 	height: 200px;
 	border-radius: 50%;
 }
+#box4{
+	border: solid 3px black;
+	height: 950px;
+	font-family: Segoe UI Light;
+	font-size: 25px;
+	border-radius: 35px;
+	width: 600px;
+	box-shadow: -10px 10px 40px gray;
+	padding: 30px;
+}
+
+#box5{
+
+
+}
+
 
